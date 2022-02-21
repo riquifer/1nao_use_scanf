@@ -1,0 +1,1 @@
+# 1nao_use_scanf
