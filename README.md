@@ -1,1 +1,3 @@
-# 1nao_use_scanf
+Este programa simples pede para que o usuário digite um nome, o mesmo imprime na tela o nome digitado e conta a quantidade de letras do nome inserido, tomando o cuidado em não contar os espaços. O desafio consistia em criar essa funcionalidade sem utilizar a função scanf, já que o mesmo não é recomendado por questões de boas práticas, principalmente para iniciantes.
+O desafio original era criar no mais baixo nível possível, porém percebi que o meu nível de conhecimento não é o suficiente para tal, mas ainda assim considero-me satisfeito com o resultado pois consegui usar outras funções alcançando o máximo possível de boas práticas, considerando o meu nível de conhecimento em programação.
+A próxima etapa do desafio consiste em modularizar e simplificar este programa em funções e bibliotecas personalizadas.
